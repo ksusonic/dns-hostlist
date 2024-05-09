@@ -17,10 +17,14 @@ jobs:
         node-version: 18
         cache: 'npm'
     - run: npm i -g @adguard/hostlist-compiler
-    - run: hostlist-compiler -c blocklist/basic.json -o output.txt
+    - run: hostlist-compiler -c blocklist/basic.json -o basic-blocklist.txt
     - name: Upload compiled artifact
       uses: actions/upload-artifact@v2
       with:
         name: basic
         path: output.txt
-    
+    - name: Release
+      uses: softprops/action-gh-release@v2
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        files: basic-blocklist.txt
