@@ -5,13 +5,13 @@
   "license": "GPLv3",
   "sources": [
     {
-      "name": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "name": "HaGeZi's Pro++ Blocklist",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
       "type": "adblock"
     },
     {
-      "name": "HaGeZi's Pro Blocklist",
-      "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
+      "name": "Adblock Warnings removal",
+      "source": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
       "type": "adblock"
     },
     {
@@ -20,20 +20,25 @@
       "type": "adblock"
     },
     {
-      "name": "HaGeZi's Allowlist Referral",
-      "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt",
-      "type": "adblock"
-    },
-    {
-      "name": "HaGeZi's Encrypted DNS Bypass DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt",
-      "type": "adblock"
-    },
-    {
       "name": "Russian ublock filters",
       "source": "https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt",
       "type": "adblock"
-    }
+    },
+    {
+      "name": "RUS Adblock",
+      "source": "https://filters.adtidy.org/extension/ublock/filters/1.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "RU AdList: Counters",
+      "source": "https://easylist-downloads.adblockplus.org/cntblock.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "RU AdList",
+      "source": "https://easylist-downloads.adblockplus.org/ruadlist.txt",
+      "type": "adblock"
+    },
   ],
   "transformations": [
     "Deduplicate",
