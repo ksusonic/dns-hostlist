@@ -38,7 +38,7 @@
       "name": "RU AdList",
       "source": "https://easylist-downloads.adblockplus.org/ruadlist.txt",
       "type": "adblock"
-    },
+    }
   ],
   "transformations": [
     "Deduplicate",
