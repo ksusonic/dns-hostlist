@@ -40,14 +40,9 @@
       "type": "adblock"
     }
   ],
-  "transformations": [
-    "Deduplicate",
-    "Compress"
-  ],
+  "transformations": ["Deduplicate", "Compress"],
   "exclusions": [],
   "exclusions_sources": [],
-  "inclusions": [
-    "*"
-  ],
+  "inclusions": ["*"],
   "inclusions_sources": []
 }
