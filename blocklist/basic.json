@@ -52,8 +52,6 @@
   ],
   "exclusions": [],
   "exclusions_sources": [],
-  "inclusions": [
-    "*"
-  ],
+  "inclusions": ["*"],
   "inclusions_sources": []
 }
