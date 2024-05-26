@@ -6,27 +6,27 @@
   "sources": [
     {
       "name": "HaGeZi's Pro++ Blocklist",
-      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.plus.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists@latest/adblock/pro.plus.txt",
       "type": "adblock"
     },
     {
       "name": "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
-      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/tif.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists@latest/adblock/tif.txt",
       "type": "adblock"
     },
     {
       "name": "HaGeZi's Dynamic DNS blocking",
-      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists@latest/adblock/dyndns.txt",
       "type": "adblock"
     },
     {
       "name": "HaGeZi's Gambling Blocklist",
-      "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists@latest/adblock/gambling.txt",
       "type": "adblock"
     },
     {
       "name": "Most Abused TLDs",
-      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt",
       "type": "adblock"
     }
   ],
