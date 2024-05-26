@@ -42,7 +42,12 @@
   ],
   "transformations": [
     "Deduplicate",
-    "Compress"
+    "Compress",
+    "RemoveComments",
+    "RemoveModifiers",
+    "RemoveEmptyLines",
+    "TrimLines",
+    "Validate"
   ],
   "exclusions": [
   ],
