@@ -43,6 +43,7 @@
   "transformations": [
     "Deduplicate",
     "Compress",
+    "InsertFinalNewLine",
     "RemoveComments",
     "RemoveModifiers",
     "RemoveEmptyLines",
