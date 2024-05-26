@@ -49,13 +49,8 @@
     "TrimLines",
     "Validate"
   ],
-  "exclusions": [
-  ],
-  "exclusions_sources": [
-  ],
-  "inclusions": [
-    "*"
-  ],
-  "inclusions_sources": [
-  ]
+  "exclusions": [],
+  "exclusions_sources": [],
+  "inclusions": ["*"],
+  "inclusions_sources": []
 }
