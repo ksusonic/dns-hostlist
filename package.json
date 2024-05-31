@@ -1,0 +1,15 @@
+{
+  "name": "dns-hostlist",
+  "version": "1.0.0",
+  "description": "Based on https://github.com/AdguardTeam/HostlistCompiler",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksusonic/dns-hostlist.git"
+  },
+  "author": "Daniil Moiseev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksusonic/dns-hostlist/issues"
+  },
+  "homepage": "https://github.com/ksusonic/dns-hostlist#readme"
+}
