@@ -23,11 +23,6 @@
       "name": "HaGeZi's Gambling Blocklist",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
       "type": "adblock"
-    },
-    {
-      "name": "Most Abused TLDs",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
-      "type": "adblock"
     }
   ],
   "transformations": [
