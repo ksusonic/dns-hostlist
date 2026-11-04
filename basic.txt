@@ -3,7 +3,7 @@
 ! Description: Basic blocklist based on HaGeZi's rules and Russian specific domains
 ! Homepage: https://github.com/ksusonic/dns-hostlist
 ! License: GPLv3
-! Last modified: 2026-11-03T12:41:50.964Z
+! Last modified: 2026-11-04T12:51:56.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
